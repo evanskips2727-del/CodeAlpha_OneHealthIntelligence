@@ -2,6 +2,13 @@
 
 A public-health analytics project combining WHO Disease Outbreak News, NASA POWER climate observations, exploratory data analysis, interactive visualizations, and sentiment analysis.
 
+## 🚀 Live Dashboard
+
+**[👉 Open the CodeAlpha One Health Intelligence Dashboard](https://codealphaonehealthintelligence-jjm8evelq4rluyvyznwtpd.streamlit.app/)**
+
+Explore the interactive public health dashboard featuring WHO disease outbreak announcements, Nairobi climate analysis, climate anomaly screening, interactive visualizations, and sentiment analysis.
+
+**Technology:** Python | Streamlit | Pandas | Plotly | VADER
 ## Project Overview
 
 This project collects and processes WHO Disease Outbreak News announcements, explores climate observations for Nairobi, Kenya, and presents findings through an interactive Streamlit dashboard.
@@ -26,6 +33,30 @@ This project collects and processes WHO Disease Outbreak News announcements, exp
 5. WHO Article Explorer
 6. Data Quality & Limitations
 
+## 📊 Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Overview](dashboard-overview.png)
+
+### Disease Surveillance
+
+![Disease Surveillance](disease-surveillance.png)
+
+### Climate Explorer
+
+![Climate Explorer](climate-explorer.png)
+
+### Sentiment Analysis
+
+![Sentiment Analysis](sentiment-analysis.png)
+
+---
+
+## 🔗 Project Links
+
+- **Live Dashboard:** [Launch the Streamlit App](https://codealphaonehealthintelligence-jjm8evelq4rluyvyznwtpd.streamlit.app/)
+- **Source Code:** [View the GitHub Repository](https://github.com/evanskips2727-del/CodeAlpha_OneHealthIntelligence)
 ## Sentiment Analysis Results
 
 The analysis classified 493 WHO announcement records. Text extracted from 30 sampled article pages was merged into matching announcements, not counted as additional independent records.
