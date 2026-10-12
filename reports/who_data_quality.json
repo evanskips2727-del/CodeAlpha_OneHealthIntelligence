@@ -1,0 +1,22 @@
+{
+  "source": "WHO Disease Outbreak News API",
+  "raw_records_collected": 500,
+  "processed_records": 493,
+  "duplicate_record_ids": 0,
+  "missing_record_ids": 0,
+  "missing_titles": 0,
+  "missing_publication_dates": 0,
+  "missing_source_urls": 0,
+  "unique_corrected_source_urls": 493,
+  "url_validation_sample_size": 15,
+  "url_validation_sample_http_200": 15,
+  "url_validation_scope": "A sample of 15 corrected article URLs returned HTTP 200; the entire dataset has not yet been individually checked.",
+  "date_range_start": "2004-01-14 00:00:00+00:00",
+  "date_range_end": "2026-07-17 16:51:09+00:00",
+  "limitations": [
+    "The collected 500 records are not established to be the latest 500 records.",
+    "Only 15 corrected article URLs have been tested.",
+    "Publication dates and URL identifiers may differ.",
+    "WHO announcements are not equivalent to standardized case counts."
+  ]
+}

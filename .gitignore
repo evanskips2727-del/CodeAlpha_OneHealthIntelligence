@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+credentials.json
+service-account.json
+secrets.json
+token.json
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.log
+reports/wahis_js_inspection/

@@ -1,0 +1,59 @@
+{
+  "who_announcement_records": 493,
+  "who_publication_year_min": 2004,
+  "who_publication_year_max": 2026,
+  "who_missingness_top_5": [
+    {
+      "field": "epidemiology",
+      "missing_percent": 93.1
+    },
+    {
+      "field": "further_information",
+      "missing_percent": 87.83
+    },
+    {
+      "field": "assessment",
+      "missing_percent": 78.7
+    },
+    {
+      "field": "response",
+      "missing_percent": 78.3
+    },
+    {
+      "field": "summary",
+      "missing_percent": 78.09
+    }
+  ],
+  "climate_daily_records": 2192,
+  "climate_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "climate_2025_flag_summary": [
+    {
+      "indicator": "Unusual temperature",
+      "flagged_days": 10,
+      "percent_of_2025_days": 2.74
+    },
+    {
+      "indicator": "Unusual precipitation",
+      "flagged_days": 40,
+      "percent_of_2025_days": 10.96
+    },
+    {
+      "indicator": "Either temperature or precipitation flagged",
+      "flagged_days": 49,
+      "percent_of_2025_days": 13.42
+    }
+  ],
+  "interpretation_notes": [
+    "WHO announcement counts are not disease-incidence counts.",
+    "Title-based disease mentions may overlap and are not unique outbreak counts.",
+    "Climate observations represent one selected Nairobi coordinate.",
+    "Climate flags are exploratory screening results, not evidence of an outbreak."
+  ]
+}

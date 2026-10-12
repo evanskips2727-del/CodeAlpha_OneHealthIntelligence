@@ -1,0 +1,3 @@
+source,url,http_status,final_url,content_type,page_title,error
+WOAH main website,https://www.woah.org/,200,https://www.woah.org/en/home/,text/html; charset=UTF-8,Home - WOAH - World Organisation for Animal Health,
+WAHIS platform,https://wahis.woah.org/,200,https://wahis.woah.org/,text/html,WAHIS,

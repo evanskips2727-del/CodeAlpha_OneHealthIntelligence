@@ -1,0 +1,28 @@
+{
+  "dataset": "NASA POWER daily climate observations",
+  "location": "Nairobi, Kenya",
+  "period_start": "2020-01-01",
+  "period_end": "2025-12-31",
+  "quality_checks": {
+    "row_count": 2192,
+    "duplicate_dates": 0,
+    "missing_calendar_dates": 0,
+    "missing_temperature_values": 0,
+    "missing_precipitation_values": 0,
+    "negative_precipitation_values": 0,
+    "temperature_min_c": 15.26,
+    "temperature_max_c": 24.75,
+    "precipitation_min_mm": 0.0,
+    "precipitation_max_mm": 51.65
+  },
+  "annual_summary_file": "/content/CodeAlpha_OneHealthIntelligence/data/processed/climate_annual_summary.csv",
+  "monthly_summary_file": "/content/CodeAlpha_OneHealthIntelligence/data/processed/climate_monthly_summary.csv",
+  "flagged_observations_file": "/content/CodeAlpha_OneHealthIntelligence/data/processed/climate_flagged_observations.csv",
+  "methodology_notes": [
+    "Temperature and precipitation are NASA POWER gridded estimates.",
+    "The location represents a selected coordinate, not all of Kenya.",
+    "Robust anomaly flags are exploratory screening indicators.",
+    "Climate anomalies do not independently establish disease risk.",
+    "Precipitation totals are sums of the downloaded daily values."
+  ]
+}

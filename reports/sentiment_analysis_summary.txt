@@ -1,0 +1,16 @@
+VADER SENTIMENT ANALYSIS SUMMARY
+========================================
+Records analyzed: 493
+Mean compound score: -0.1701
+Median compound score: -0.4019
+
+Sentiment distribution:
+Positive: 188 records (38.13%)
+Neutral: 17 records (3.45%)
+Negative: 288 records (58.42%)
+
+Interpretation limitations:
+- Scores represent estimated linguistic sentiment, not public opinion.
+- Negative language may reflect disease descriptions or adverse outcomes.
+- Scores do not measure disease severity or outbreak probability.
+- VADER is a general-purpose tool, not a validated epidemiological classifier.

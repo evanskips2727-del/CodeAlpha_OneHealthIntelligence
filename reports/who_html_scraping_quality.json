@@ -1,0 +1,12 @@
+{
+  "source_url": "https://www.who.int/emergencies/disease-outbreak-news",
+  "http_status": 200,
+  "html_bytes": 330238,
+  "article_links_extracted": 0,
+  "duplicate_links_removed": 0,
+  "missing_titles": 0,
+  "output_csv": "/content/CodeAlpha_OneHealthIntelligence/data/processed/who_html_scraped_articles.csv",
+  "raw_html_file": "/content/CodeAlpha_OneHealthIntelligence/data/raw/who/who_disease_outbreak_news_page.html",
+  "scraped_at_utc": "2026-10-12T10:35:49.432341+00:00",
+  "note": "This is an HTML page scrape, separate from the WHO API dataset. The number of extracted links depends on the HTML returned at collection time."
+}

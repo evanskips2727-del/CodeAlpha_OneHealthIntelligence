@@ -1,0 +1,16 @@
+{
+  "project": "CodeAlpha One Health Intelligence Platform",
+  "method": "requests + BeautifulSoup HTML parsing",
+  "url_column_used": "source_url",
+  "unique_urls_selected": 30,
+  "articles_attempted": 30,
+  "articles_downloaded": 30,
+  "articles_with_titles": 30,
+  "articles_with_publication_dates": 30,
+  "articles_with_paragraph_text": 30,
+  "total_paragraphs_extracted": 272,
+  "failures": [],
+  "output_csv": "/content/CodeAlpha_OneHealthIntelligence/data/processed/who_html_article_samples.csv",
+  "raw_html_directory": "/content/CodeAlpha_OneHealthIntelligence/data/raw/who/html_article_samples",
+  "scraped_at_utc": "2026-10-12T10:54:37.861465+00:00"
+}

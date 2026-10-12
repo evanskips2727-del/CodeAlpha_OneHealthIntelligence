@@ -1,0 +1,4 @@
+indicator,flagged_days,percent_of_2025_days
+Unusual temperature,10,2.74
+Unusual precipitation,40,10.96
+Either temperature or precipitation flagged,49,13.42

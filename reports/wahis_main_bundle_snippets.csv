@@ -1,0 +1,2 @@
+category,snippet
+environment/configuration,"zi,xi,Ue]},[]);var Dn=pr(kn());typeof Worker<""u""&&(Dn.default.workerClass=class{constructor(){return new Worker(new URL(""worker-MIHHEBGY.js"",import.meta.url),{type:""module""})}});z.production&&void 0;Rr().bootstrapModule(Rn,{applicationProviders:[Cr()]}).catch(i=>console.log(i)); "
